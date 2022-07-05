@@ -38,4 +38,3 @@ types = {
 'images': None,
 'videos': None
         }
-h = 10
