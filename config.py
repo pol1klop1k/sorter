@@ -37,6 +37,4 @@ types = {
 'music': music,
 'images': None,
 'videos': None
-}
-
-prost = 12
+        }
