@@ -5,8 +5,8 @@ width = 1000
 height = 800
 
 #Шрифты
-text_font = 'Zombie Holocaust'
-mode_font = 'Comfortaa'
+text_font = 'UA-brand'
+mode_font = 'UA-brand'
 
 #Цвета
 mainbg = '#202020'

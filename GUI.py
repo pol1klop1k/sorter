@@ -39,7 +39,7 @@ def set():              #Функция вызова окна настроек
                     command=lambda: choose(cfg.music, 'music'),
                     width=15
                     )
-    music.place(x=803, y=50)
+    music.place(x=840, y=58)
     toClose.append(music)
 
     close = tk.Button(win,
